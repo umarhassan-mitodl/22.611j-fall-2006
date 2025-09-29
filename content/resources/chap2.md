@@ -9,6 +9,8 @@ description: 'Lecture notes on motion of charged particles in fields, uniform B 
 file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/e3c1e305c4afea8754681bf9f8bba057_chap2.pdf
 file_size: 372681
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

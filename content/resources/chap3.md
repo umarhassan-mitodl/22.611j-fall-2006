@@ -6,6 +6,8 @@ description: Lecture notes on collisions in plasmas, differential cross-section 
 file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/6392c1cde2d7d1921bd0c9fdf78520cb_chap3.pdf
 file_size: 1295995
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

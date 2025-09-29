@@ -10,6 +10,8 @@ description: 'Lecture notes on fluid description of plasma, particle conservatio
 file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/c168b1b911621d2299f82eb8c1178b70_chap4.pdf
 file_size: 648948
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

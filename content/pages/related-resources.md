@@ -9,18 +9,18 @@ uid: e8d235a4-182e-fef2-a99a-7057e7cc9f08
 ---
 The following is a list of Plasma related resources:
 
-NRL Plasma Formulary, 2002 Revised Edition: Formulary PDF file ({{% resource_link "4d390641-ea08-440c-a505-50ae3ac76c8f" "PDF" %}})
+NRL Plasma Formulary, 2002 Revised Edition: Formulary PDF file ([PDF](https://apps.dtic.mil/sti/tr/pdf/ADA417132.pdf))
 
-{{% resource_link "8be5c054-52fc-4ee3-8579-b8271d1894ab" "MIT Plasma Science and Fusion Center" %}}
+[MIT Plasma Science and Fusion Center](http://www.psfc.mit.edu/)
 
-{{% resource_link "2fbab57a-3997-4602-ba57-2004c2e30bc5" "The World Wide Web Virtual Library Plasma Science and Technology - Resources" %}}
+[The World Wide Web Virtual Library Plasma Science and Technology - Resources](http://www.plasmas.org/resources.htm)
 
-{{% resource_link "9c89142e-f697-415b-85a1-58a1b9f0d2cb" "The Coalition for Plasma Science" %}}
+[The Coalition for Plasma Science](http://www.plasmacoalition.org/)
 
-{{% resource_link "62477d83-bc7b-42cc-a532-02743dad535f" "Princeton Plasma Physics Laboratory" %}}
+[Princeton Plasma Physics Laboratory](http://www.pppl.gov/)
 
-{{% resource_link "ea4d5fd4-6fa5-457f-8312-2367a354025d" "General Atomics" %}}
+[General Atomics](http://fusion.gat.com/global/Home)
 
-{{% resource_link "7e067c05-75ba-44a6-8914-d4040b5cadbd" "University of Wisconsin" %}}
+[University of Wisconsin](http://sprott.physics.wisc.edu/fusion.htm)
 
-Plasma Science and Technology Newsgroup: {{% resource_link "32c69640-f39d-4ba7-839c-6be597b5c42a" "Usenet - sci.physics.plasma" %}} (You may need to access this manually)
+Plasma Science and Technology Newsgroup: [Usenet - sci.physics.plasma](http://groups.google.com/group/sci.physics.plasma/topics) (You may need to access this manually)

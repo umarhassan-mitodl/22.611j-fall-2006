@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains the exams from the 2006, 2005, and 2002 versions
   of this course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

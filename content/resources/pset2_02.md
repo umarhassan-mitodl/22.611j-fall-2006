@@ -5,6 +5,8 @@ description: This resource contains a problem set from a previous semester, prov
 file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/0fd3a26cbfa2e59863f338ebaf86a7a0_pset2_02.pdf
 file_size: 197351
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
