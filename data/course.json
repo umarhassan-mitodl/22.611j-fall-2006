@@ -38,7 +38,6 @@
     "website": "22-611j-introduction-to-plasma-physics-i-fall-2006"
   },
   "course_title": "Introduction to Plasma Physics I",
-  "hide_download": true,
   "course_description": "The plasma state dominates the visible universe, and is important in fields as diverse as Astrophysics and Controlled Fusion. Plasma is often referred to as \"the fourth state of matter.\" This course introduces the study of the nature and behavior of plasma. A variety of models to describe plasma behavior are presented.\n",
   "department_numbers": [
     "22",
@@ -51,7 +50,6 @@
     "content": "017cf663-d12e-7162-8ded-a81ca94044da",
     "website": "22-611j-introduction-to-plasma-physics-i-fall-2006"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions"

@@ -11,8 +11,6 @@ description: 'Lecture notes on electromagnetic waves in plasmas, general treatme
 file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/0940abd0f5c16aa3972c8796c8ca52e2_chap5.pdf
 file_size: 1039197
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

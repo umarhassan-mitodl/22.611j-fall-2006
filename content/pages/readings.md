@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides recommended reference texts and Prof. Ian Hutchinson's
   2003 lecture notes for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -70,9 +68,9 @@ Hutchinson, I. H. _Principles of Plasma Diagnostics_. Cambridge, UK: Cambridge U
 
 ### Magnetic Confinement Fusion
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262180061) Rose, D. J., and M. Clark, Jr. [_Plasmas and Controlled Fusion_](https://mitpress.mit.edu/9780262180061). Cambridge, MA: MIT Press, 1961. ISBN: 9780262180061.
+{{% resource_link "2e1944e7-2618-4ce2-94ca-3bdfc287b619" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rose, D. J., and M. Clark, Jr. {{% resource_link "2e1944e7-2618-4ce2-94ca-3bdfc287b619" "_Plasmas and Controlled Fusion_" %}}. Cambridge, MA: MIT Press, 1961. ISBN: 9780262180061.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631174) Miyamoto, K. [_Plasma Physics for Nuclear Fusion_](https://mitpress.mit.edu/9780262631174). Cambridge, MA: MIT Press, 1989. ISBN: 9780262631174.
+{{% resource_link "1af4d450-0024-4e81-9076-92fab7e340b4" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Miyamoto, K. {{% resource_link "1af4d450-0024-4e81-9076-92fab7e340b4" "_Plasma Physics for Nuclear Fusion_" %}}. Cambridge, MA: MIT Press, 1989. ISBN: 9780262631174.
 
 Wesson, J. _Tokamaks_. 3rd ed. Oxford, UK: Oxford University Press, 2004. ISBN: 9780198509226.
 

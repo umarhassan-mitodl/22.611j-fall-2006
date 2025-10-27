@@ -3,8 +3,6 @@ content_type: page
 description: This section provides the course description and information about course
   prerequisites, textbook, problem sets, exams, grading, and a calendar of lecture
   topics and key dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
